@@ -15,6 +15,6 @@
 ## 📦 安装方法
 
 ```bash
-git clone https://github.com/yourname/linux-trash.git
+git clone https://github.com/yoki333/linux-trash.git
 cd linux-trash
 bash install.sh
